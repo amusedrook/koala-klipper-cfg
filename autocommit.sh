@@ -2,7 +2,7 @@
 
 # Based on:
 # https://github.com/EricZimmerman/VoronTools/blob/main/autocommit.sh
-# Trimmed to bar-bones
+# Trimmed to bare-bones
 
 # Path to config folder
 config_folder=~/printer_data/config
